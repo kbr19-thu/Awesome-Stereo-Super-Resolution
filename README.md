@@ -29,7 +29,7 @@ We refer to [Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Supe
 
 ## Methods
 
-We collected **PSNR/SSIM** results of most SOTA methods on datasets, **Middlebury, KITTI 2012, KITTI 2015 and Flickr1024, x2 and x4**. You can find them from [here](psnr_ssim_results.md).
+We collected **PSNR/SSIM** results, **parameter numbers** and **training datasets used** of most SOTA methods on testing datasets **Middlebury, KITTI 2012, KITTI 2015 and Flickr1024, x2 and x4**. You can find them from [here](psnr_ssim_results.md).
 
 ### 2024
 <!-- More years papers, plase check Quick navigation -->
