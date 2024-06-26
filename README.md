@@ -23,9 +23,13 @@
 Welcome to Awesome-Stereo-Super-Resolution! This list aims to gather resources related to stereo super-resolution, including papers, datasets, and repositories. We appreciate the efforts of those who have contributed to similar lists. Let's build a comprehensive resource together!
 
 We refer to [Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution) for the navigation format for now.
+
+**You can find other awesome paper lists and repos  from [here](awesome_paper_list_and_repos.md).**
+
+
 ## Methods
 
-
+**You can find PSNR/SSIM results of SOTA methods on datasets, Middlebury, KITTI 2012, KITTI 2015 and Flickr1024,  from [here](psnr_ssim_results.md).**
 
 ### 2024
 <!-- More years papers, plase check Quick navigation -->
@@ -44,7 +48,7 @@ More years papers, plase check Quick navigation
 |SC-NAFSSR: Perceptual-Oriented Stereo Image Super-Resolution Using Stereo Consistency Guided NAFSSR        | SC-NAFSSR            | [CVPRW23 ](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Qiu_SC-NAFSSR_Perceptual-Oriented_Stereo_Image_Super-Resolution_Using_Stereo_Consistency_Guided_NAFSSR_CVPRW_2023_paper.pdf)            | [code](https://github.com/FVL2020/SC-NAFSSR)              | -      | 
 | Stereo Cross Global Learnable Attention Module for Stereo Image Super-Resolution        | SCGLANet           | [CVPRW23 ](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Zhou_Stereo_Cross_Global_Learnable_Attention_Module_for_Stereo_Image_Super-Resolution_CVPRW_2023_paper.pdf)            | [code](https://github.com/fzuzyb/SCGLANet)              | -      | 
 |  SwinFSR: Stereo Image Super-Resolution using SwinIR and Frequency Domain Knowledge        | SwinFSR           | [CVPRW23 ](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Chen_SwinFSR_Stereo_Image_Super-Resolution_Using_SwinIR_and_Frequency_Domain_Knowledge_CVPRW_2023_paper.pdf)            | [code](https://github.com/GoKerrChen/SwinFSR)              | [NTIRE@CVPR 2023 Stereo Image Super-Resolution Challenge](https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR/tree/NTIRE2023)       | 
-|  Steformer: Efficient Stereo Image Super-Resolution With Transformer        | Steformer           | [ACM MM23 ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10016671)            | -              | Stereo image processing, image super-resolution,  transformer       | 
+|  Steformer: Efficient Stereo Image Super-Resolution With Transformer        | Steformer           | [TMM23 ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10016671)            | -              | Stereo image processing, image super-resolution,  transformer       | 
 
 
 ### 2022
