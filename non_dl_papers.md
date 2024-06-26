@@ -1,0 +1,13 @@
+### Non-DL based SR Methods
+
+This part is mainly referenced from [Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution).
+
+| Title                  | Model                  | Published                                                    | Code                                                         | Keywords                                                     |   
+| ---------------------- | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | 
+| Image Super-Resolution Via Sparse Representation   |    SCSR     | [TIP2010](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5466111)            | [code](http://www.ifp.illinois.edu/~jyang29/)              | Face hallucination, image super-resolution (SR), nonnegative matrix factorization, sparse coding, sparse representation      | 
+| Anchored Neighborhood Regression for Fast Example-Based Super-Resolution   |    ANR     | [ICCV2013](https://openaccess.thecvf.com/content_iccv_2013/papers/Timofte_Anchored_Neighborhood_Regression_2013_ICCV_paper.pdf)            | [code](http://www.vision.ee.ethz.ch/~timofter/ICCV2013_ID1774_SUPPLEMENTARY/index.html)              | -      | 
+| A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution   |    A+     | [ACCV2014](https://ieeexplore.ieee.org/document/5466111/?arnumber=5466111)            | [code](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/)              | -      | 
+| Seven ways to improve example-based single image super resolution   |    IA     | [CVPR2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Timofte_Seven_Ways_to_CVPR_2016_paper.pdf)            | -              | -     | 
+| Single Image Super-resolution from Transformed Self-Exemplars |    SelfExSR     | [CVPR2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Huang_Single_Image_Super-Resolution_2015_CVPR_paper.pdf)            | [code](https://github.com/jbhuang0604/SelfExSR)              | -      | 
+| Naive Bayes Super-Resolution Forest   |    NBSRF     | [ICCV2015](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Salvador_Naive_Bayes_Super-Resolution_ICCV_2015_paper.pdf)            |    -     | -      | 
+| Fast and Accurate Image Upscaling with Super-Resolution Forests  |    SCSR     | [ICCV2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schulter_Fast_and_Accurate_2015_CVPR_paper.pdf)            | [code](https://www.tugraz.at/institute/icg/research/team-bischof/samuel-schulter/)              | -      | 
