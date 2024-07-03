@@ -1,6 +1,6 @@
-# Quick navigation
+# Quick Navigation
 
-- [Quick navigation](#quick-navigation)
+- [Quick Navigation](#quick-navigation)
 - [Awesome-Stereo-Super-Resolution (Continuously Updated)](#awesome-stereo-super-resolution-continuously-updated)
   - [Methods](#methods)
     - [*PSNR/SSIM Rankings*](#psnrssim-rankings)
@@ -15,8 +15,8 @@
   - [Stereo Super Resolution Dataset](#stereo-super-resolution-dataset)
     - [Dataset collections](#dataset-collections)
   - [Stereo Super Resolution Competitions](#stereo-super-resolution-competitions)
-<!-- - [Super Resolution survey](sr_survey.md) -->
-<!-- - [Super Resolution workshop papers](workshops.md) -->
+  <!-- - [Super Resolution survey](sr_survey.md) -->
+  <!-- - [Super Resolution workshop papers](workshops.md) -->
 
 # Awesome-Stereo-Super-Resolution (Continuously Updated)
 
@@ -163,5 +163,4 @@ SSR **training** datasets collected by [iPASSR](https://github.com/YingqianWang/
 | **NTIRE 2024 Challenge on Stereo Image Super-Resolution** | [Github](https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR/tree/NTIRE2024) | [Results](https://cvlai.net/ntire/2024/NTIRE2024awards_certificates.pdf) | CVPR24 |
 | **NTIRE 2023 Challenge on Stereo Image Super-Resolution** | [Github](https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR/tree/NTIRE2023) | [Results](https://cvlai.net/ntire/2023/NTIRE2023awards_certificates.pdf)| CVPR23 |
 | **NTIRE 2022 Challenge on Stereo Image Super-Resolution** | [Github](https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR/tree/NTIRE2022) | [Results](https://data.vision.ee.ethz.ch/cvl/ntire22/NTIRE2022AwardCertificates.pdf)| CVPR22 |
-
 
