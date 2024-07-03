@@ -236,7 +236,7 @@
 | NAFSSR-S | 1.56M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 23.88/0.7468 | 2022 |
 | NAFSSR-B | 6.80M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 24.07/0.7551 | 2022 |
 | NAFSSR-L | 23.83M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 24.17/0.7589 | 2022 |
-| SwinFIRSSR | 24.09M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | *<u>24.29/0.7681</u>*  | 2022 |
+| SwinFIRSSR | 24.09M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 24.29/0.7681  | 2022 |
 | SwiniPASSR-S2 | 16.55M | [Flickr1024](dataset.md) | 24.00/0.7549 | 2023 |
 | SwiniPASSR-M2 | 22.81M | [Flickr1024](dataset.md) | 24.05/0.7560 | 2023 |
 | SwiniPASSR-M2 <br> ***using self-ensemble strategy*** | 22.81M | [Flickr1024](dataset.md) | 24.13/0.7579 | 2023 |
@@ -245,14 +245,14 @@
 | SwinFSR-L | 26.75M | [Flickr1024](dataset.md) | 24.19/0.7598 | 2023 |
 | MESFINET | 2.05M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |     23.63/0.7389 | 2023 |
 | Steformer | 1.34M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 23.58/0.7376 | 2023 |
-| HTCAN | 25.29M |  [Flickr1024](dataset.md) |     24.44/0.7703 | 2023 |
+| HTCAN | 25.29M |  [Flickr1024](dataset.md) |     **24.44/0.7703** | 2023 |
 | SC-NAFSSR | - |  [Flickr1024](dataset.md) |     22.44/0.6918 | 2023 |
 | PFT-SSR | - | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 23.89/0.7277 | 2023 |
 | CVHSSR-T |  0.68M | 60 [Middlebury](dataset.md)?, [Flickr1024](dataset.md) |   23.89/0.7484  | 2023 |
 | CVHSSR-S | 2.24M | 60 [Middlebury](dataset.md)?, [Flickr1024](dataset.md) |    24.08/0.7570 | 2023 |
 |  EHFSSR-S  | 0.64M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    23.92/0.7483 | 2024 |
 |  EHFSSR | 1.21M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    23.99/0.7525 | 2024 |
-| SCGLANet | 25.29M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |     **24.39/0.7679** | 2024 |
+| SCGLANet | 25.29M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |     *<u>24.39/0.7679</u>* | 2024 |
 
    
 <!-- | IMSSRnet | 6.89M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | -/-  |  2020 | 28.66/0.9087 | -->
