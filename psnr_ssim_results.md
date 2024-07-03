@@ -29,7 +29,7 @@
 | CVHSSR-S | 2.22M | 60 [Middlebury](dataset.md)?, [Flickr1024](dataset.md) |  31.42/0.9262 |    31.57/0.9291 | 2023 |
 |  EHFSSR-S  | 0.63M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  - |     31.46/0.9279 | 2024 |
 |  EHFSSR | 1.19M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  -  |  31.58/0.9296 | 2024 |
-| SCGLANet |  25.43M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    <u>31.61/0.9294</u>  |  <u>31.71/0.9307</u> | 2024 |
+| SCGLANet |  25.43M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    *<u>31.61/0.9294</u>*  |  *<u>31.71/0.9307</u>* | 2024 |
 
 #### PSNR/SSIM results on *KITTI 2015 2x*
 | Method | Parameters | Training Dataset | *Left* | *(Left+Right)/2* | Published Year |
@@ -49,7 +49,7 @@
 | NAFSSR-S | 1.54M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 30.28/0.9266 | 31.08/0.9367  | 2022 |
 | NAFSSR-B | 6.77M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 30.42/0.9282 | 31.22/0.9380 | 2022 |
 | NAFSSR-L | 23.79M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 30.46/0.9289 | 31.25/0.9386 | 2022 |
-| SwinFIRSSR | 23.94M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | <u>30.66/0.9321</u> | **31.45/0.9413**  | 2022 |
+| SwinFIRSSR | 23.94M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | *<u>30.66/0.9321</u>* | **31.45/0.9413**  | 2022 |
 | MESFINET | 2.00M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  30.12/0.9252 |   30.92/0.9354 | 2023 |
 | Steformer | 1.29M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 30.27/0.9271 | 31.07/0.9371 | 2023 |
 | PFT-SSR | - | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |   30.16/0.9187 | 30.96/0.9306 | 2023 |
@@ -57,7 +57,7 @@
 | CVHSSR-S | 2.22M | 60 [Middlebury](dataset.md)?, [Flickr1024](dataset.md) | 30.42/0.9287 |   31.22/0.9385 | 2023 |
 |  EHFSSR-S  | 0.63M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  - |     31.13/0.9377 | 2024 |
 |  EHFSSR | 1.19M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  -  |   31.21/0.9390 | 2024 |
-| SCGLANet |  25.43M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    **31.23/0.9385**  |  <u>31.32/0.9397</u> | 2024 |
+| SCGLANet |  25.43M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    **31.23/0.9385**  |  *<u>31.32/0.9397</u>* | 2024 |
 
 #### PSNR/SSIM results on *Middlebury 2x*
 | Method | Parameters | Training Dataset | *Left* | *(Left+Right)/2* | Published Year |
@@ -85,7 +85,7 @@
 | CVHSSR-S | 2.22M | 60 [Middlebury](dataset.md)?, [Flickr1024](dataset.md) | 35.73/0.9551 |  35.78/0.9550 | 2023 |
 |  EHFSSR-S  | 0.63M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  - |     35.51/0.9530 | 2024 |
 |  EHFSSR | 1.19M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  -  |   35.71/0.9545 | 2024 |
-| SCGLANet |  25.43M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    <u>36.26/0.9587</u>  |  <u>36.33/0.9583</u> | 2024 |
+| SCGLANet |  25.43M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    *<u>36.26/0.9587</u>*  |  *<u>36.33/0.9583</u>* | 2024 |
 
 #### PSNR/SSIM results on *Flickr1024 2x*
 | Method | Parameters | Training Dataset | *(Left+Right)/2* | Published Year |
@@ -112,7 +112,7 @@
 | CVHSSR-S |  2.22M | 60 [Middlebury](dataset.md)?, [Flickr1024](dataset.md) |  29.56/0.9216 | 2023 |
 |  EHFSSR-S  | 0.63M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |       29.31/0.9182 | 2024 |
 |  EHFSSR | 1.19M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |   29.51/0.9210 | 2024 |
-| SCGLANet |  25.43M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    <u>29.97/0.9257</u> | 2024 |
+| SCGLANet |  25.43M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    *<u>29.97/0.9257</u>* | 2024 |
 
 
 <!-- | IMSSRnet | 6.84M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | -/- | 2020 | -->
@@ -139,7 +139,7 @@
 | SwinFIRSSR | 24.09M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 27.06/0.8175 | 27.16/0.8235 | 2022 |
 | SwinFSR-S | 9.76M | [Flickr1024](dataset.md) | - | 27.03/0.8143  | 2023 |
 | SwinFSR-B | 14.01M | [Flickr1024](dataset.md) | - | 27.07/0.8151  | 2023 |
-| SwinFSR-L | 26.75M | [Flickr1024](dataset.md) | - | <u>27.24/0.8195</u> | 2023 |
+| SwinFSR-L | 26.75M | [Flickr1024](dataset.md) | - | *<u>27.24/0.8195</u>* | 2023 |
 | MESFINET | 2.05M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  26.61/0.8039 |   26.70/0.8099 | 2023 |
 | HTCAN | 25.29M |  [Flickr1024](dataset.md) |   **27.16/0.8189** |   **27.25/0.8249** | 2023 |
 | Steformer | 1.34M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 26.61/0.8037 | 26.70/0.8098 | 2023 |
@@ -148,7 +148,7 @@
 | CVHSSR-S | 2.24M | 60 [Middlebury](dataset.md)?, [Flickr1024](dataset.md) |  27.00/0.8139 |     27.10/0.8199 | 2023 |
 |  EHFSSR-S  | 0.64M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  - |     26.79/0.8218 | 2024 |
 |  EHFSSR | 1.21M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  -  |   26.82/0.8233 | 2024 |
-| SCGLANet | 25.29M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    <u>27.10/0.8204</u>  |  27.20/0.8230 | 2024 |
+| SCGLANet | 25.29M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    *<u>27.10/0.8204</u>*  |  27.20/0.8230 | 2024 |
 
 
 #### PSNR/SSIM results on *KITTI 2015 4x*
@@ -173,10 +173,10 @@
 | SwinFIRSSR | 24.09M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 26.15/0.8062 | 26.89/0.8283 | 2022 |
 | SwinFSR-S | 9.76M | [Flickr1024](dataset.md) | - | 26.83/0.8213  | 2023 |
 | SwinFSR-B | 14.01M | [Flickr1024](dataset.md) | - | 26.87/0.8222 | 2023 |
-| SwinFSR-L | 26.75M | [Flickr1024](dataset.md) | - | <u>27.00/0.8257</u> | 2023 |
+| SwinFSR-L | 26.75M | [Flickr1024](dataset.md) | - | *<u>27.00/0.8257</u>* | 2023 |
 | MESFINET | 2.05M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  25.69/0.7897 |   26.42/0.8131 | 2023 |
 | Steformer | 1.34M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 25.74/0.7906 | 26.45/0.8134 | 2023 |
-| HTCAN | 25.29M |  [Flickr1024](dataset.md) |  <u>26.26/0.8083</u> |   26.99/0.8299 | 2023 |
+| HTCAN | 25.29M |  [Flickr1024](dataset.md) |  *<u>26.26/0.8083</u>* |   26.99/0.8299 | 2023 |
 | SC-NAFSSR | - |  [Flickr1024](dataset.md) |  - |   24.89/0.7582 | 2023 |
 | PFT-SSR | - | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |    25.76/0.7775 |  26.54/0.8083 | 2023 |
 | CVHSSR-T |  0.68M | 60 [Middlebury](dataset.md)?, [Flickr1024](dataset.md) |    26.03/0.7991 |  26.78/0.8218  | 2023 |
@@ -206,11 +206,11 @@
 | NAFSSR-L | 23.83M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 30.11/0.8601 | 30.20/0.8605 | 2022 |
 | SwinFIRSSR | 24.09M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | **30.33/0.8676** | 30.44/0.8687 | 2022 |
 | SwinFSR-S | 9.76M | [Flickr1024](dataset.md) | - | 32.45/0.8891 | 2023 |
-| SwinFSR-B | 14.01M | [Flickr1024](dataset.md) | - | <u>32.69/0.8910</u> | 2023 |
+| SwinFSR-B | 14.01M | [Flickr1024](dataset.md) | - | *<u>32.69/0.8910</u>* | 2023 |
 | SwinFSR-L | 26.75M | [Flickr1024](dataset.md) | - | **32.73/0.8915** | 2023 |
 | MESFINET | 2.05M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |  29.32/0.8434 |   29.42/0.8438 | 2023 |
 | Steformer | 1.34M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 29.29/0.8424 | 29.38/0.8425 | 2023 |
-| HTCAN | 25.29M |  [Flickr1024](dataset.md) |   <u>30.25/0.8628</u> |  30.33/0.8634 | 2023 |
+| HTCAN | 25.29M |  [Flickr1024](dataset.md) |   *<u>30.25/0.8628</u>* |  30.33/0.8634 | 2023 |
 | PFT-SSR | - | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) |     29.58/0.8418 |  29.74/0.8426 | 2023 |
 | CVHSSR-T |  0.68M | 60 [Middlebury](dataset.md)?, [Flickr1024](dataset.md) |    29.62/0.8496 |  29.74/0.8505  | 2023 |
 | CVHSSR-S | 2.24M | 60 [Middlebury](dataset.md)?, [Flickr1024](dataset.md) |   29.94/0.8577 |    30.05/0.8584 | 2023 |
@@ -236,7 +236,7 @@
 | NAFSSR-S | 1.56M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 23.88/0.7468 | 2022 |
 | NAFSSR-B | 6.80M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 24.07/0.7551 | 2022 |
 | NAFSSR-L | 23.83M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | 24.17/0.7589 | 2022 |
-| SwinFIRSSR | 24.09M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | <u>24.29/0.7681</u>  | 2022 |
+| SwinFIRSSR | 24.09M | 60 [Middlebury](dataset.md), [Flickr1024](dataset.md) | *<u>24.29/0.7681</u>*  | 2022 |
 | SwiniPASSR-S2 | 16.55M | [Flickr1024](dataset.md) | 24.00/0.7549 | 2023 |
 | SwiniPASSR-M2 | 22.81M | [Flickr1024](dataset.md) | 24.05/0.7560 | 2023 |
 | SwiniPASSR-M2 <br> ***using self-ensemble strategy*** | 22.81M | [Flickr1024](dataset.md) | 24.13/0.7579 | 2023 |
