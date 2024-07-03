@@ -3,6 +3,7 @@
 - [Quick navigation](#quick-navigation)
 - [Awesome-Stereo-Super-Resolution (Continuously Updated)](#awesome-stereo-super-resolution-continuously-updated)
   - [Methods](#methods)
+    - [*PSNR/SSIM Rankings*](#psnrssim-rankings)
     - [2024](#2024)
     - [2023](#2023)
     - [2022](#2022)
@@ -29,6 +30,8 @@ We refer to [Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Supe
 
 
 ## Methods
+
+### *PSNR/SSIM Rankings*
 
 We collected **PSNR/SSIM** results, **parameter numbers** and **training datasets used** of most SOTA methods on testing datasets **Middlebury, KITTI 2012, KITTI 2015 and Flickr1024, x2 and x4**. You can find them from [here](psnr_ssim_results.md).
 
